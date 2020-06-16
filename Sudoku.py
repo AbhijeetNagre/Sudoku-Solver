@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 12 14:56:05 2019
-
-@author: Sajag PC
-"""
 
 import collections 
 
